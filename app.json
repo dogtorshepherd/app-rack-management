@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "reactnavigation",
-    "slug": "reactnavigation",
+    "slug": "app-rack-management",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8f6119b7-e9e3-4f73-b596-907bcfbded28"
+      }
+    },
+    "owner": "mosmurmur"
   }
 }
